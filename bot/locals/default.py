@@ -5,7 +5,7 @@ LOCAL = Local({
     'HELP_MESSAGE_HEADER' : '<b>Bot Command</b>',
     'NO_HELP_INFO' : 'no information',
     'WRONG_ROOM' : 'I am not supposed to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Aniruddh's Leecher Bot</b>!\nPowered by Pyrogram.\nContact: <a href='https://t.me/aniruddhsinghal5'>Aniruddh</a>\n\nUse <code>/{cmd_pass} </code>to enter the password.",
+    'WELCOME_MESSAGE' : "Hi!\nI'm Aniruddh's Leecher Bot!\nPowered by Pyrogram.\nContact: <a href='https://t.me/aniruddhsinghal5'>Aniruddh</a>\n\nUse <code>/{cmd_pass} </code>to enter the password.",
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
     'ARIA2_CHECKING_LINK' : "checking...",
